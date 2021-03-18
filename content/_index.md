@@ -79,3 +79,4 @@ page_sections:
 draft: true
 
 ---
+![](/uploads/2018/06/21/forestry-symbol.svg)
