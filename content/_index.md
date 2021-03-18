@@ -76,7 +76,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world!
-draft: true
 
 ---
 ![](/v1615336684/In-season-August-Lemons.jpg)
